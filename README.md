@@ -1,4 +1,14 @@
-# Hi there, I’m Syed Zain Qaiser 👋
+
+
+<h1 align="center">Hi there, I’m Syed Zain Qaiser 👋</h1>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="200" style="border-radius:50%;" alt="Syed Zain Qaiser" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZAINSHAH121&label=Visitors&color=0e75b6&style=flat" alt="Visitor counter"/>
+</p>
 
 💻 Full-Stack Software Engineer | Python | Java | .NET | WebSockets | Cloud Solutions | JavaScript | React | Next.js | Node.js | MERN Stack  
 
