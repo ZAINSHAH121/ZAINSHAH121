@@ -18,4 +18,4 @@ MongoDB | MSSQL | Firebase | REST APIs | Git | Jira | Azure DevOps
 I’m passionate about clean architecture, scalable design patterns, and continuous learning to stay sharp with the latest technologies.
 
 💬 Let’s collaborate on exciting projects or open-source initiatives!
-📫 Reach me at: [your email]
+📫 Reach me at: syedzainshah442@gmail.com
