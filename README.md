@@ -3,7 +3,8 @@
 <h1 align="center">Hi there, I’m Syed Zain Qaiser 👋</h1>
 
 <p align="center">
-  <img src="profile.jpg" alt="Syed Zain Qaiser"style="width: 100%; max-width: 600px; border-radius:8px; margin: 10px 0;" />
+  <img src="profile.jpg" alt="Syed Zain Qaiser"style="width: 80%; max-width: 400px;
+  height:auto; border-radius:8px; margin: 10px 0;" />
 </p>
 
 
