@@ -3,7 +3,9 @@
 💻 Full-Stack Software Engineer | Python | Java | .NET | WebSockets | Cloud Solutions | JavaScript | React | Next.js | Node.js | MERN Stack  
 
 I’m a passionate developer who loves solving real-world problems by crafting reliable and scalable digital solutions.  
-Currently pursuing my *Master’s Degree in Information Technology with Project Management* at *University of the West of Scotland*.
+Currently pursuing my *Master’s Degree in Information Techngit add README.md
+
+ology with Project Management* at *University of the West of Scotland*.
 
 ---
 
@@ -28,6 +30,13 @@ MongoDB | SQL | Git | Jira | SEO | SQA
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZAINSHAH121&show_icons=true&theme=radical" alt="Zain's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=syed-zain-qaiser&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-zain-qaiser&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
