@@ -13,7 +13,7 @@
 
 💻 Full-Stack Software Engineer | Python | Java | .NET | WebSockets | Cloud Solutions | JavaScript | React | Next.js | Node.js | MERN Stack  
 
-I’m Syed Zain Qaiser, a highly motivated and versatile Full-Stack Software Engineer with extensive experience in crafting scalable, secure, and high-performance web applications for both startups and enterprise-grade businesses. My passion lies in building modern, reliable, and efficient software systems that address real-world challenges.
+I’m highly motivated and versatile Full-Stack Software Engineer with extensive experience in crafting scalable, secure, and high-performance web applications for both startups and enterprise-grade businesses. My passion lies in building modern, reliable, and efficient software systems that address real-world challenges.
 
 I hold a Bachelor’s degree in Software Engineering from The Superior University, Lahore, and have successfully delivered multiple real-world projects — including AI-powered CRM systems, ERP solutions, and dynamic E-commerce platforms. My focus lies in crafting seamless user experiences, designing scalable architectures, and developing secure and efficient APIs that align with modern development standards.
 
