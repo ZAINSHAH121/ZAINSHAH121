@@ -1,21 +1,53 @@
-👋 Hi there, I’m Syed Zain Qaiser — a passionate Full-Stack Software Engineer who loves building scalable, efficient, and modern web applications.
+# Hi there, I’m Syed Zain Qaiser 👋
 
-💡 I specialize in developing end-to-end solutions using:
-JavaScript | React.js | Next.js | .NET | Node.js | MERN Stack | WebSockets | Cloud Solutions (Azure, AWS)
+💻 Full-Stack Software Engineer | Python | Java | .NET | WebSockets | Cloud Solutions | JavaScript | React | Next.js | Node.js | MERN Stack  
 
-🧠 I hold a Bachelor’s degree in Software Engineering from The Superior University, Lahore, and I’m currently pursuing a Master’s in Information Technology with Project Management at UWS (University of the West of Scotland).
+I’m a passionate developer who loves solving real-world problems by crafting reliable and scalable digital solutions.  
+Currently pursuing my *Master’s Degree in Information Technology with Project Management* at *University of the West of Scotland*.
 
-⚡️ What I build:
-— Real-time dashboards & data visualization
-— AI-powered CRMs and ERP platforms
-— E-commerce solutions & SaaS applications
-— Inventory & Document Management Systems
+---
 
-🚀 Tech Stack Highlights:
-React | Next.js | Node.js | ASP.NET MVC | .NET Core | WebSockets
-MongoDB | MSSQL | Firebase | REST APIs | Git | Jira | Azure DevOps
+### 💡 Core Competencies:
+- ⚡ Full Stack Development — React.js | ASP.NET MVC | .NET Core
+- ⚡ Real-Time Data Handling — WebSockets, APIs, and Event-Driven Systems
+- ⚡ Cloud Deployments — Azure, AWS, IIS Server & CI/CD pipelines
+- ⚡ Databases — MSSQL, MongoDB, Firebase
+- ⚡ Agile Collaboration — Unit Testing | Code Reviews | GitOps  
 
-I’m passionate about clean architecture, scalable design patterns, and continuous learning to stay sharp with the latest technologies.
+---
 
-💬 Let’s collaborate on exciting projects or open-source initiatives!
-📫 Reach me at: syedzainshah442@gmail.com
+### 🧠 Key Skills at a Glance:
+JavaScript | TypeScript | React.js | Next.js | Svelte  
+Redux Toolkit | Tanstack Query | REST APIs | Node.js  
+Tailwind | SCSS | Material UI | Strapi | WordPress  
+MongoDB | SQL | Git | Jira | SEO | SQA  
+
+---
+
+### 🏆 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZAINSHAH121&show_icons=true&theme=radical" alt="Zain's GitHub stats" />
+</p>
+
+---
+
+### 🌱 Currently Learning:
+- Microservices Architecture
+- Advanced Cloud Deployments
+- System Design Patterns  
+
+---
+
+### 📫 Let’s Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/syed-zain-qaiser)
+- 🌐 [Portfolio Website](#) (coming soon!)
+
+---
+
+### ⚡ Fun Fact:
+When I’m not writing code, you’ll probably find me exploring new tech, leveling up my knowledge, or outdoors enjoying sports.
+
+---
+
+Thanks for stopping by! ⭐
