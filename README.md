@@ -49,7 +49,7 @@ MongoDB | SQL | Git | Jira | SEO | SQA
 ---
 
 ### 📫 Let’s Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/syed-zain-qaiser)
+- 💼 [LinkedIn](https://www.linkedin.com/in/syed-zain-qaiser51214)
 - 🌐 [Portfolio Website](#) (coming soon!)
 
 ---
