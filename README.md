@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="profile.jpg" alt="Syed Zain Qaiser"style="width: 100%; max-width: 400px;
-  height:200px; border-radius:8px; margin: 10px 0;" />
+  height:320px; border-radius:8px; margin: 10px 0;" />
 </p>
 
 
