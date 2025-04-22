@@ -1,23 +1,29 @@
-
-
 <h1 align="center">Hi there, I’m Syed Zain Qaiser 👋</h1>
 
 <p align="center">
-  <img src="profile.jpg" alt="Syed Zain Qaiser"style="width: 100%; max-width: 400px;
-  height:320px; border-radius:8px; margin: 10px 0;" />
+  <img src="profile.jpg" alt="Syed Zain Qaiser" style="width: 100%; max-width: 400px; height:320px; border-radius:8px; margin: 10px 0;" />
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZAINSHAH121&label=Visitors&color=0e75b6&style=flat" alt="Visitor counter"/>
 </p>
 
-💻 Full-Stack Software Engineer | Python | Java | .NET | WebSockets | Cloud Solutions | JavaScript | React | Next.js | Node.js | MERN Stack  
+<p align="center">
+  <a href="https://github.com/ZAINSHAH121">
+    <img src="https://img.shields.io/github/followers/ZAINSHAH121?label=Follow&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://www.linkedin.com/in/syed-zain-qaiser51214/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
-I’m highly motivated and versatile Full-Stack Software Engineer with extensive experience in crafting scalable, secure, and high-performance web applications for both startups and enterprise-grade businesses. My passion lies in building modern, reliable, and efficient software systems that address real-world challenges.
+---
+
+💻 **Full-Stack Software Engineer** | Python | Java | .NET | WebSockets | Cloud Solutions | JavaScript | React | Next.js | Node.js | MERN Stack  
+
+I’m a highly motivated and versatile Full-Stack Software Engineer with extensive experience in crafting scalable, secure, and high-performance web applications for both startups and enterprise-grade businesses. My passion lies in building modern, reliable, and efficient software systems that address real-world challenges.
 
 I hold a Bachelor’s degree in Software Engineering from The Superior University, Lahore, and have successfully delivered multiple real-world projects — including AI-powered CRM systems, ERP solutions, and dynamic E-commerce platforms. My focus lies in crafting seamless user experiences, designing scalable architectures, and developing secure and efficient APIs that align with modern development standards.
-
 
 I specialize in end-to-end software development — from intuitive frontend interfaces to robust backend logic, cloud deployment, real-time data visualization (WebSockets), and third-party integrations. Whether working on customer-facing products or enterprise-grade platforms, I apply a clean, scalable, and performance-first approach to every solution.
 
@@ -49,6 +55,7 @@ MongoDB | SQL | Git | Jira | SEO | SQA
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZAINSHAH121&show_icons=true&theme=radical" alt="Zain's GitHub stats" />
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ZAINSHAH121&theme=dark" alt="GitHub Streak" />
 </p>
@@ -67,8 +74,8 @@ MongoDB | SQL | Git | Jira | SEO | SQA
 ---
 
 ### 📫 Let’s Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/syed-zain-qaiser51214)
-- 🌐 [Portfolio Website](#) (coming soon!)
+- 💼 [LinkedIn](https://www.linkedin.com/in/syed-zain-qaiser51214/)
+- 🌐 Portfolio Website: _Coming Soon_
 
 ---
 
@@ -77,4 +84,4 @@ When I’m not writing code, you’ll probably find me exploring new tech, level
 
 ---
 
-Thanks for stopping by! ⭐
+⭐️ Thanks for stopping by!
