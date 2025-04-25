@@ -57,7 +57,8 @@ MongoDB | SQL | Git | Jira | SEO | SQA
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ZAINSHAH121&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ZAINSHAH121&theme=dark"
+   alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -75,7 +76,7 @@ MongoDB | SQL | Git | Jira | SEO | SQA
 
 ### 📫 Let’s Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/syed-zain-qaiser51214/)
-- 🌐 Portfolio Website: _Coming Soon_(Syed Zain Qaiser)
+- 🌐 Portfolio Website: _Coming Soon_
 
 ---
 
