@@ -57,9 +57,8 @@ MongoDB | SQL | Git | Jira | SEO | SQA
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ZAINSHAH121&theme=dark&cache_bust=1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZAINSHAH121&theme=dark" alt="GitHub Streak" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAINSHAH121&layout=compact&theme=dark" alt="Top Languages" />
