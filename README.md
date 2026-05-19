@@ -63,18 +63,21 @@ Specialized in LLM applications, RAG pipelines, scalable APIs, and automation wo
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZAINSHAH121&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAINSHAH121&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZAINSHAH121&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZAINSHAH121&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ZAINSHAH121&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZAINSHAH121&show_icons=true&theme=radical" />
 </p>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ZAINSHAH121&theme=radical&hide_border=true" />
+</p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZAINSHAH121&theme=radical"/>
 </p>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZAINSHAH121&theme=radical" />
+</p>
 ---
 
 ## 🌱 Currently Exploring
