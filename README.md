@@ -1,45 +1,46 @@
 <p align="center">
-  <img src="linkedin_banner.jpg" alt="Banner" style="width:100%; border-radius:10px;" />
+  <img src="linkedin_banner.jpg" alt="Syed Zain Qaiser Banner" style="width: 100%; border-radius: 8px;" />
 </p>
 
 <h1 align="center">Hi there, I'm Syed Zain Qaiser 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZAINSHAH121&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ZAINSHAH121&label=Visitors&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ZAINSHAH121">
-    <img src="https://img.shields.io/github/followers/ZAINSHAH121?style=social" />
+    <img src="https://img.shields.io/github/followers/ZAINSHAH121?label=Follow&style=social" />
   </a>
   <a href="https://www.linkedin.com/in/syedzainqaiser">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:syedzainshah442@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 🤖 AI/ML Engineer | LLMs | RAG | MLOps | DevOps | Automation
+## 🤖 AI/ML Engineer | LLMs | RAG | Generative AI | FastAPI | MLOps | DevOps | Automation
 
-Building scalable AI systems, LLM pipelines, and production-grade automation workflows.
-
----
-
-## 🧠 Core Expertise
-
-- LLMs & Generative AI (RAG, Prompt Engineering, Agents)
-- Machine Learning (TensorFlow, Scikit-learn)
-- API Development (FastAPI, Flask)
-- DevOps (Docker, CI/CD, GitHub Actions)
-- Workflow Automation (n8n, Webhooks)
-- MLOps & Deployment
+AI/ML & DevOps Engineer with 1+ years of experience building production-grade intelligent systems.  
+Specialized in LLM applications, RAG pipelines, scalable APIs, and automation workflows.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Core Competencies
+
+- 🔬 LLMs & Generative AI — Prompt Engineering, Fine-tuning, RAG, Agents  
+- ⚙️ ML Engineering — TensorFlow, Scikit-learn, Model Evaluation  
+- 🚀 API Development — FastAPI, Flask, REST APIs  
+- 🔁 DevOps & GitOps — Docker, CI/CD, GitHub Actions  
+- 🤖 Workflow Automation — n8n, Webhooks, API orchestration  
+- 🔒 DevSecOps — Secure APIs, Secrets Management  
+
+---
+
+## 💡 Tech Stack
 
 <p align="center">
 
@@ -59,14 +60,12 @@ Building scalable AI systems, LLM pipelines, and production-grade automation wor
 
 ---
 
-## 📊 GitHub Stats (STABLE — NO BREAKING LINKS)
+## 🏆 GitHub Stats
+
+
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZAINSHAH121&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=ZAINSHAH121&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZAINSHAH121&theme=radical"/>
 </p>
 
 ---
@@ -75,25 +74,25 @@ Building scalable AI systems, LLM pipelines, and production-grade automation wor
 
 - Advanced RAG architectures  
 - Agentic AI systems  
-- LLM fine-tuning (LoRA / RLHF)  
-- Kubernetes ML deployment  
+- LLM fine-tuning & RLHF  
+- Kubernetes for ML deployment  
 - Multi-agent systems  
 
 ---
 
-## 📂 Projects
+## 📂 Notable Projects
 
-- **Feeda AI** — AI-powered NLP + CV system  
-- **Cheery AI** — LLM-based chatbot system  
-- **n8n Automation Pipelines** — Workflow automation for SaaS systems  
+- **Feeda AI** — AI-powered NLP + CV + Generative AI system  
+- **Cheery AI** — Conversational LLM-based assistant  
+- **n8n Automation Pipelines** — Production workflow automation system  
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/syedzainqaiser  
-- GitHub: https://github.com/ZAINSHAH121  
-- Email: syedzainshah442@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/syedzainqaiser  
+- 🐙 GitHub: https://github.com/ZAINSHAH121  
+- 📧 Email: syedzainshah442@gmail.com  
 
 ---
 
