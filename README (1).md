@@ -58,18 +58,13 @@ I hold a Bachelor's degree in Computer Software Engineering from The Superior Un
 
 ### 🏆 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZAINSHAH121&show_icons=true&theme=radical" alt="Zain's GitHub stats" />
-</p>
+< p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ZAINSHAH121&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" /> </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ZAINSHAH121&theme=dark" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAINSHAH121&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAINSHAH121&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" /> </p>
 ---
 
 ### 🌱 Currently Exploring
