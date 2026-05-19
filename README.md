@@ -62,13 +62,8 @@ Specialized in LLM applications, RAG pipelines, scalable APIs, and automation wo
 
 ## 🏆 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZAINSHAH121&theme=radical"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ZAINSHAH121&theme=radical"/>
-</p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZAINSHAH121&theme=radical"/>
 </p>
