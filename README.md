@@ -126,9 +126,7 @@ class AIEngineer:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZAINSHAH121&theme=github_dark" width="100%" alt="Profile Summary"/>
-</div>
+
 
 <br/>
 
@@ -152,7 +150,7 @@ class AIEngineer:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZAINSHAH121&theme=github_dark" alt="Repos Per Language"/>
 </div>
 
-----
+---
 
 ## 🚀 Notable Projects
 
