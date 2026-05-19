@@ -1,4 +1,8 @@
-<h1 align="center">Hi there, I’m Syed Zain Qaiser 👋</h1>
+<p align="center">
+  <img src="linkedin_banner.jfif" alt="Syed Zain Qaiser Banner" style="width: 100%; border-radius: 8px;" />
+</p>
+
+<h1 align="center">Hi there, I'm Syed Zain Qaiser 👋</h1>
 
 <p align="center">
   <img src="profile.jpg" alt="Syed Zain Qaiser" style="width: 100%; max-width: 400px; height:320px; border-radius:8px; margin: 10px 0;" />
@@ -12,45 +16,51 @@
   <a href="https://github.com/ZAINSHAH121">
     <img src="https://img.shields.io/github/followers/ZAINSHAH121?label=Follow&style=social" alt="GitHub Followers">
   </a>
-  <a href="https://www.linkedin.com/in/syed-zain-qaiser51214/">
+  <a href="https://www.linkedin.com/in/syedzainqaiser">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:syedzainshah442@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 ---
 
-💻 **Full-Stack Software Engineer** | Python | Java | .NET | WebSockets | Cloud Solutions | JavaScript | React | Next.js | Node.js | MERN Stack  
+🤖 **AI/ML Engineer** | LLMs & RAG | Generative AI | FastAPI | MLOps | DevOps & GitOps | Workflow Automation
 
-I’m a highly motivated and versatile Full-Stack Software Engineer with extensive experience in crafting scalable, secure, and high-performance web applications for both startups and enterprise-grade businesses. My passion lies in building modern, reliable, and efficient software systems that address real-world challenges.
+I'm an AI/ML and DevOps Engineer with 1+ years of professional experience designing, deploying, and automating intelligent systems at scale. I specialize in building production-grade, end-to-end AI solutions — from LLM-powered applications and RAG pipelines to CI/CD-backed MLOps infrastructure and n8n workflow automation.
 
-I hold a Bachelor’s degree in Software Engineering from The Superior University, Lahore, and have successfully delivered multiple real-world projects — including AI-powered CRM systems, ERP solutions, and dynamic E-commerce platforms. My focus lies in crafting seamless user experiences, designing scalable architectures, and developing secure and efficient APIs that align with modern development standards.
+My work spans the full AI lifecycle: researching and fine-tuning models, building secure FastAPI services, wiring together event-driven automation pipelines, and shipping everything through robust GitOps workflows. I've contributed to real-world AI products across NLP, computer vision, and generative AI — always with a focus on measurable impact and engineering quality.
 
-I specialize in end-to-end software development — from intuitive frontend interfaces to robust backend logic, cloud deployment, real-time data visualization (WebSockets), and third-party integrations. Whether working on customer-facing products or enterprise-grade platforms, I apply a clean, scalable, and performance-first approach to every solution.
-
-Currently, I am advancing my knowledge and leadership capabilities through a Master’s degree in Information Technology with Project Management at the University of the West of Scotland (UWS).
-
-Outside of coding, I’m deeply passionate about keeping up with the latest tech innovations, improving software design patterns, and collaborating on transformative digital products.
+I hold a Bachelor's degree in Computer Software Engineering from The Superior University, Lahore, and bring a practical, systems-thinking approach to every problem I tackle.
 
 ---
 
-### 💡 Core Competencies:
-- ⚡ Full Stack Development — React.js | ASP.NET MVC | .NET Core
-- ⚡ Real-Time Data Handling — WebSockets, APIs, and Event-Driven Systems
-- ⚡ Cloud Deployments — Azure, AWS, IIS Server & CI/CD pipelines
-- ⚡ Databases — MSSQL, MongoDB, Firebase
-- ⚡ Agile Collaboration — Unit Testing | Code Reviews | GitOps  
+### 🧠 Core Competencies
+
+- 🔬 **LLMs & Generative AI** — Fine-tuning, prompt engineering, conversational agents, RAG pipelines
+- ⚙️ **ML Engineering** — TensorFlow, Scikit-learn, model evaluation, feature engineering, MLOps
+- 🚀 **API Development** — FastAPI, Flask, RESTful design, secure microservices
+- 🔁 **DevOps & GitOps** — GitHub Actions, GitLab CI/CD, Docker, declarative workflows, IaC
+- 🤖 **Workflow Automation** — n8n pipelines, webhook integrations, API orchestration, event-driven systems
+- 🔒 **DevSecOps** — Secrets management, dependency scanning, secure API design
 
 ---
 
-### 🧠 Key Skills at a Glance:
-JavaScript | TypeScript | React.js | Next.js | Svelte  
-Redux Toolkit | Tanstack Query | REST APIs | Node.js  
-Tailwind | SCSS | Material UI | Strapi | WordPress  
-MongoDB | SQL | Git | Jira | SEO | SQA  
+### 💡 Key Areas of Expertise
+
+| Domain | Technologies |
+|---|---|
+| Languages & Frameworks | Python, FastAPI, Flask, NumPy, Pandas, Scikit-learn, TensorFlow |
+| AI / ML | LLMs, RAG, Prompt Engineering, Model Fine-tuning, NLP, Computer Vision |
+| DevOps & GitOps | Docker, Kubernetes (basics), GitHub Actions, GitLab CI/CD, IaC |
+| Workflow Automation | n8n, API orchestration, webhooks, event-driven pipelines |
+| MLOps | Model versioning, CI/CD for ML, cloud deployment, experiment tracking |
+| Generative AI | Conversational AI, agent frameworks, content generation, adaptive systems |
 
 ---
 
-### 🏆 GitHub Stats:
+### 🏆 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZAINSHAH121&show_icons=true&theme=radical" alt="Zain's GitHub stats" />
@@ -66,21 +76,34 @@ MongoDB | SQL | Git | Jira | SEO | SQA
 
 ---
 
-### 🌱 Currently Learning:
-- Microservices Architecture
-- Advanced Cloud Deployments
-- System Design Patterns  
+### 🌱 Currently Exploring
+
+- Advanced RAG architectures & agentic AI systems
+- LLM fine-tuning and RLHF workflows
+- Kubernetes for scalable ML model serving
+- Multi-agent orchestration frameworks
 
 ---
 
-### 📫 Let’s Connect!
+### 📂 Notable Projects
+
+- **Feeda Labs / Feeda AI** — AI-powered product spanning NLP, computer vision, and generative AI
+- **Cheery** — Conversational AI application with LLM-based backend
+- **n8n Automation Pipelines** — Production-grade workflows connecting AI models with business systems, REST APIs, and SaaS tools
+
+---
+
+### 📫 Let's Connect!
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/syedzainqaiser)
-- 🌐 [Portfolio](https://zainfolio.web.app)
+- 🐙 [GitHub](https://github.com/ZAINSHAH121)
+- 📧 [syedzainshah442@gmail.com](mailto:syedzainshah442@gmail.com)
 
 ---
 
-### ⚡ Fun Fact:
-When I’m not writing code, you’ll probably find me exploring new tech, leveling up my knowledge, or outdoors enjoying sports.
+### ⚡ Fun Fact
+
+When I'm not building AI systems or automating workflows, you'll find me exploring the latest in ML research, tinkering with new tools, or enjoying sports outdoors.
 
 ---
 
